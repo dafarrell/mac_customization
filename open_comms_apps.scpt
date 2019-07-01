@@ -11,3 +11,6 @@ end tell
 tell application "zoom.us.app"
     launch
 end tell
+tell application "Microsoft Teams.app"
+    launch
+end tell
